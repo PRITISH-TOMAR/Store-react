@@ -32,7 +32,7 @@ const Menu = [
   },
   {
     id: 4,
-    image: "/images/book4.jpg",
+    image: "images/book4.jpg",
     name: "Art of Computer Programming",
   author: "- Donald E. Knuth",
     category: "Algorithms",
@@ -42,7 +42,7 @@ const Menu = [
   },
   {
     id: 5,
-    image: "../images/book5.jpg",
+    image: "images/book5.jpg",
     name: "Introduction to Neural Networks",
   author: "- SN Sivanandan",
     category: "ML",
@@ -52,7 +52,7 @@ const Menu = [
   },
   {
     id: 6,
-    image: "../images/book6.jpg",
+    image: "images/book6.jpg",
     name: "ARTIFICIAL INTELLIGENCE Third Edition",
   author: "- Shivashankar B Nair",
     category: "AI",
@@ -62,7 +62,7 @@ const Menu = [
   },
   {
     id: 7,
-    image: "../images/book7.jpg",
+    image: "images/book7.jpg",
     name: "Life 3.0",
   author: "- Max tegmark",
     category: "AI",
@@ -72,7 +72,7 @@ const Menu = [
   },
   {
     id: 8,
-    image: "../images/book8.jpg",
+    image: "images/book8.jpg",
     name: "Master Algorithm",
   author: "- Pedro Domingos",
     category: "Algorithms",
@@ -82,7 +82,7 @@ const Menu = [
   },
   {
     id: 9,
-    image: "../images/book9.jpg",
+    image: "images/book9.jpg",
     name: "Fundamentals of Database Systems",
   author: "- Ramez Elmasri",
     category: "DBMS",
