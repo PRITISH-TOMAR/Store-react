@@ -68,7 +68,7 @@ const Menu = [
     category: "AI",
     price: "677₹",
     description:
-      "'This is the most important conversation of our time, and Tegmark's thought-provoking book will help you join it' Stephen HawkingTHE INTERNATIONAL BESTSELLER. DAILY TELEGRAPH AND THE TIMES BOOKS OF THE YEARSELECTED AS ONE OF BARACK OBAMA'S FAVOURITE BOOKS OF 2018AI is the future - but what will that future look like? Will superhuman intelligence be our slave, or become our god?Taking us to the heart of the latest thinking about AI, Max Tegmark, the MIT professor whose work has helped mainstream research on how to keep AI beneficial, separates myths from reality, utopias from dystopias, to explore the next phase of our existence.",
+      "'This is  most important conversation of our time, and Tegmark's thought-provoking book will help you join it' Stephen HawkingTHE INTERNATIONAL BESTSELLER. DAILY TELEGRAPH AND THE TIMES BOOKS OF THE YEARSELECTED AS ONE OF BARACK OBAMA'S FAVOURITE BOOKS OF 2018AI is the future - but what will that future look like? Will superhuman intelligence be our slave, or become our god?Taking us to the heart of the latest thinking about AI, Max Tegmark, the MIT professor whose work has helped mainstream research on how to keep AI beneficial, separates myths from reality, utopias from dystopias, to explore the next phase of our existence.",
   },
   {
     id: 8,
